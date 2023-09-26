@@ -7,5 +7,5 @@
 
 </div>
 
--   [Solution][ ]
--   [Live Page][ ]
+-   [Solution][https://github.com/TTsintsadze/Cube-Clock]
+-   [Live Page][https://cube-clock.vercel.app/]
